@@ -1,0 +1,20 @@
+{
+  "name": "Miro Academy - Gestionale Scuola di Ballo",
+  "short_name": "Miro Academy",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#ee9f19",
+  "icons": [
+    {
+      "src": "logo-miro.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo-miro.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
